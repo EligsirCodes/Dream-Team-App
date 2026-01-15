@@ -88,10 +88,7 @@ fun MainScreen(context: Context) {
             }
 
             Button(
-                onClick = {
-//                    val rosalesScreen = Intent(context, StudentFiveActivity::class.java)
-//                    context.startActivity(rosalesScreen)
-                }
+                onClick = { }
             ) {
                 Text (
                     text = "Student 5: Rosales Bio"
